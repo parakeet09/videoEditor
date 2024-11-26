@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/parakeet09.github.io/videoEditor/static/css/main.d66630fd.css",
+    "main.js": "/parakeet09.github.io/videoEditor/static/js/main.9cdd6d41.js",
+    "static/js/726.f458fb75.chunk.js": "/parakeet09.github.io/videoEditor/static/js/726.f458fb75.chunk.js",
+    "static/js/453.51fca9c7.chunk.js": "/parakeet09.github.io/videoEditor/static/js/453.51fca9c7.chunk.js",
+    "static/media/trupeerLogo.svg": "/parakeet09.github.io/videoEditor/static/media/trupeerLogo.83406cbd768412a45a2af0194322fcfb.svg",
+    "index.html": "/parakeet09.github.io/videoEditor/index.html",
+    "main.d66630fd.css.map": "/parakeet09.github.io/videoEditor/static/css/main.d66630fd.css.map",
+    "main.9cdd6d41.js.map": "/parakeet09.github.io/videoEditor/static/js/main.9cdd6d41.js.map",
+    "726.f458fb75.chunk.js.map": "/parakeet09.github.io/videoEditor/static/js/726.f458fb75.chunk.js.map",
+    "453.51fca9c7.chunk.js.map": "/parakeet09.github.io/videoEditor/static/js/453.51fca9c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d66630fd.css",
+    "static/js/main.9cdd6d41.js"
+  ]
+}

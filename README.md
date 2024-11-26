@@ -16,6 +16,8 @@ A web-based video editor that allows users to upload videos, apply zoom effects 
 - **Preview and Download**:
   - Preview the processed video.
   - Download the edited video with both visuals and audio.
+- **Current Issues**:
+  - FPS is hardcoded to 60 as it was hampering the processing time (since deployed without server, everything is happening on FE)
 
 ## Tech Stack
 
